@@ -29,7 +29,7 @@ Ensure you have Python installed. Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 1. Clone the repository:
 ```bash
 
@@ -54,12 +54,12 @@ python visualize_metrics.py
 streamlit run app.py
 ``` 
 
-##Architecture
+## Architecture
 ![Architecture](Arch.png)
 
 
 
-##Results
+## Results
 
 After training, you can visualize metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and accuracy over epochs.
 ![Graph1](1.png)
